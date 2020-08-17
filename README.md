@@ -12,4 +12,6 @@
 # RockPaperScissor-workshop
  RPS Workshop held on 17th Aug 2020 
 
+Made By Mohammed Imran Mohsin
+Github Project: https://github.com/mims1234/RockPaperScissor-workshop
 
